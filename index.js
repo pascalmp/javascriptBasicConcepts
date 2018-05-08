@@ -5,3 +5,6 @@ let myLastName = 'Mpawenayo';
 let fullName = `${myFirstName} ${myLastName}`;
 
 console.log(fullName);
+
+//NUMBERS
+let example = 7;
