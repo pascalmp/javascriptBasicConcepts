@@ -7,4 +7,6 @@ let fullName = `${myFirstName} ${myLastName}`;
 console.log(fullName);
 
 //NUMBERS
-let example = 7;
+let example = 7.77;
+// example = 7;
+console.log(parseInt(example));
