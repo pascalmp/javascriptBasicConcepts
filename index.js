@@ -9,4 +9,5 @@ console.log(fullName);
 //NUMBERS
 let example = 7.77;
 // example = 7;
-console.log(parseInt(example));
+//console.log(parseInt(example));
+console.log(parseFloat(example));
