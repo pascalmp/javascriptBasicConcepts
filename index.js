@@ -18,7 +18,7 @@ let ex2 = parseFloat('23 pascal 34');
 let ex3 = 55.3333.toFixed(0);
 let ex4 = 200.0.toFixed(2);
 
-console.log(ex1);
-console.log(ex2);
-console.log(ex3);
-console.log(ex4);
+console.log(typeof ex1);//Number
+console.log(typeof ex2);//Number
+console.log(typeof ex3);//String
+console.log(typeof ex4);//String
