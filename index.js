@@ -48,3 +48,5 @@ console.log(Boolean(ex18));
 console.log(Boolean(ex19));
 console.log(Boolean(ex20));
 
+//Arrays
+
